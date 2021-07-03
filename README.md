@@ -1,2 +1,3 @@
-# Login-Form
- Responsive login form using HTML, CSS and pure JavaScript. The project was based on a video from the DankiCode channel, but with some modifications.
+# Responsive Login Form using HTML, CSS and JS
+
+- I made a responsive login form using HTML5, CSS3 and pure JavaScript. This project was based on a video from the DankiCode channel, but with some modifications. 
